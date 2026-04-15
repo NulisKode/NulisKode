@@ -90,8 +90,8 @@ const NulisKode = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NulisKode&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=0ea5e9&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=8b949e" height="195" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NulisKode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" height="195" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NulisKode&theme=prussian&hide_border=true" height="195" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NulisKode&theme=prussian&show_icons=true&hide_border=true&layout=compact" height="195" />
 
 </div>
 
